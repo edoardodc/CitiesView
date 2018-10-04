@@ -10,7 +10,7 @@ import UIKit
 
 class CitiesTableViewController: UITableViewController {
     
-    let cities = ["Milano", "Bolzano", "Caserta", "Varenna", "Roma", "Palermo", "Venezia", "Firenze"]
+    let cities = ["Milano", "Bolzano", "Caserta", "Varenna", "Roma", "Palermo", "Venezia", "Firenze", "Genova"]
 }
 
 // MARK: - UITableViewDelegate
